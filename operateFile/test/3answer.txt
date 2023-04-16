@@ -1,0 +1,51 @@
+                    试题
+1:  答案:Springfield 选项:C
+2:  答案:Frankfort 选项:D
+3:  答案:Montpelier 选项:A
+4:  答案:Oklahoma City 选项:B
+5:  答案:Des Moines 选项:D
+6:  答案:Columbus 选项:A
+7:  答案:Tallahassee 选项:C
+8:  答案:Boston 选项:B
+9:  答案:Harrisburg 选项:A
+10:  答案:Sacramento 选项:B
+11:  答案:Saint Paul 选项:B
+12:  答案:Dover 选项:C
+13:  答案:Cheyenne 选项:D
+14:  答案:Salt Lake City 选项:B
+15:  答案:Phoenix 选项:D
+16:  答案:Denver 选项:B
+17:  答案:Austin 选项:A
+18:  答案:Atlanta 选项:C
+19:  答案:Boise 选项:C
+20:  答案:Baton Rouge 选项:A
+21:  答案:Annapolis 选项:D
+22:  答案:Olympia 选项:A
+23:  答案:Charleston 选项:B
+24:  答案:Montgomery 选项:A
+25:  答案:Santa Fe 选项:A
+26:  答案:Nashville 选项:B
+27:  答案:Columbia 选项:D
+28:  答案:Augusta 选项:B
+29:  答案:Madison 选项:C
+30:  答案:Concord 选项:C
+31:  答案:Lansing 选项:C
+32:  答案:Pierre 选项:A
+33:  答案:Helena 选项:A
+34:  答案:Lincoln 选项:C
+35:  答案:Honolulu 选项:B
+36:  答案:Richmond 选项:D
+37:  答案:Albany 选项:A
+38:  答案:Providence 选项:B
+39:  答案:Hartford 选项:A
+40:  答案:Topeka 选项:C
+41:  答案:Carson City 选项:B
+42:  答案:Jefferson City 选项:B
+43:  答案:Indianapolis 选项:B
+44:  答案:Jackson 选项:B
+45:  答案:Bismarck 选项:B
+46:  答案:Juneau 选项:B
+47:  答案:Trenton 选项:C
+48:  答案:Salem 选项:B
+49:  答案:Raleigh 选项:A
+50:  答案:Little Rock 选项:B

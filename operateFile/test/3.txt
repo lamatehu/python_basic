@@ -1,0 +1,103 @@
+geography_exam
+class:_______
+name: _______
+1: 请问Illinois的首府是哪里?
+    A:Jefferson City	B:Austin	C:Springfield	D:Salem	
+2: 请问Kentucky的首府是哪里?
+    A:Oklahoma City	B:Olympia	C:Topeka	D:Frankfort	
+3: 请问Vermont的首府是哪里?
+    A:Montpelier	B:Springfield	C:Sacramento	D:Baton Rouge	
+4: 请问Oklahoma的首府是哪里?
+    A:Madison	B:Oklahoma City	C:Des Moines	D:Olympia	
+5: 请问Iowa的首府是哪里?
+    A:Lincoln	B:Trenton	C:Indianapolis	D:Des Moines	
+6: 请问Ohio的首府是哪里?
+    A:Columbus	B:Des Moines	C:Nashville	D:Springfield	
+7: 请问Florida的首府是哪里?
+    A:Harrisburg	B:Providence	C:Tallahassee	D:Nashville	
+8: 请问Massachusetts的首府是哪里?
+    A:Charleston	B:Boston	C:Topeka	D:Columbia	
+9: 请问Pennsylvania的首府是哪里?
+    A:Harrisburg	B:Lansing	C:Bismarck	D:Honolulu	
+10: 请问California的首府是哪里?
+    A:Nashville	B:Sacramento	C:Salt Lake City	D:Olympia	
+11: 请问Minnesota的首府是哪里?
+    A:Pierre	B:Saint Paul	C:Indianapolis	D:Boston	
+12: 请问Delaware的首府是哪里?
+    A:Atlanta	B:Boston	C:Dover	D:Tallahassee	
+13: 请问Wyoming的首府是哪里?
+    A:Helena	B:Providence	C:Madison	D:Cheyenne	
+14: 请问Utah的首府是哪里?
+    A:Austin	B:Salt Lake City	C:Des Moines	D:Augusta	
+15: 请问Arizona的首府是哪里?
+    A:Frankfort	B:Nashville	C:Concord	D:Phoenix	
+16: 请问Colorado的首府是哪里?
+    A:Harrisburg	B:Denver	C:Indianapolis	D:Honolulu	
+17: 请问Texas的首府是哪里?
+    A:Austin	B:Albany	C:Madison	D:Harrisburg	
+18: 请问Georgia的首府是哪里?
+    A:Denver	B:Indianapolis	C:Atlanta	D:Topeka	
+19: 请问Idaho的首府是哪里?
+    A:Atlanta	B:Santa Fe	C:Boise	D:Little Rock	
+20: 请问Louisiana的首府是哪里?
+    A:Baton Rouge	B:Annapolis	C:Atlanta	D:Columbus	
+21: 请问Maryland的首府是哪里?
+    A:Providence	B:Des Moines	C:Salt Lake City	D:Annapolis	
+22: 请问Washington的首府是哪里?
+    A:Olympia	B:Tallahassee	C:Austin	D:Helena	
+23: 请问West Virginia的首府是哪里?
+    A:Lincoln	B:Charleston	C:Topeka	D:Santa Fe	
+24: 请问Alabama的首府是哪里?
+    A:Montgomery	B:Topeka	C:Jefferson City	D:Salt Lake City	
+25: 请问New Mexico的首府是哪里?
+    A:Santa Fe	B:Dover	C:Bismarck	D:Concord	
+26: 请问Tennessee的首府是哪里?
+    A:Boston	B:Nashville	C:Baton Rouge	D:Augusta	
+27: 请问South Carolina的首府是哪里?
+    A:Harrisburg	B:Lincoln	C:Richmond	D:Columbia	
+28: 请问Maine的首府是哪里?
+    A:Baton Rouge	B:Augusta	C:Albany	D:Oklahoma City	
+29: 请问Wisconsin的首府是哪里?
+    A:Topeka	B:Indianapolis	C:Madison	D:Helena	
+30: 请问New Hampshire的首府是哪里?
+    A:Lincoln	B:Raleigh	C:Concord	D:Salem	
+31: 请问Michigan的首府是哪里?
+    A:Saint Paul	B:Cheyenne	C:Lansing	D:Honolulu	
+32: 请问South Dakota的首府是哪里?
+    A:Pierre	B:Jefferson City	C:Columbia	D:Indianapolis	
+33: 请问Montana的首府是哪里?
+    A:Helena	B:Salt Lake City	C:Richmond	D:Madison	
+34: 请问Nebraska的首府是哪里?
+    A:Honolulu	B:Juneau	C:Lincoln	D:Frankfort	
+35: 请问Hawaii的首府是哪里?
+    A:Columbia	B:Honolulu	C:Santa Fe	D:Atlanta	
+36: 请问Virginia的首府是哪里?
+    A:Lansing	B:Columbia	C:Providence	D:Richmond	
+37: 请问New York的首府是哪里?
+    A:Albany	B:Honolulu	C:Austin	D:Jefferson City	
+38: 请问Rhode Island的首府是哪里?
+    A:Olympia	B:Providence	C:Hartford	D:Austin	
+39: 请问Connecticut的首府是哪里?
+    A:Hartford	B:Albany	C:Frankfort	D:Bismarck	
+40: 请问Kansas的首府是哪里?
+    A:Carson City	B:Raleigh	C:Topeka	D:Frankfort	
+41: 请问Nevada的首府是哪里?
+    A:Concord	B:Carson City	C:Lansing	D:Topeka	
+42: 请问Missouri的首府是哪里?
+    A:Trenton	B:Jefferson City	C:Phoenix	D:Olympia	
+43: 请问Indiana的首府是哪里?
+    A:Salem	B:Indianapolis	C:Charleston	D:Atlanta	
+44: 请问Mississippi的首府是哪里?
+    A:Honolulu	B:Jackson	C:Little Rock	D:Springfield	
+45: 请问North Dakota的首府是哪里?
+    A:Phoenix	B:Bismarck	C:Charleston	D:Hartford	
+46: 请问Alaska的首府是哪里?
+    A:Trenton	B:Juneau	C:Bismarck	D:Columbia	
+47: 请问New Jersey的首府是哪里?
+    A:Saint Paul	B:Concord	C:Trenton	D:Des Moines	
+48: 请问Oregon的首府是哪里?
+    A:Little Rock	B:Salem	C:Honolulu	D:Boise	
+49: 请问North Carolina的首府是哪里?
+    A:Raleigh	B:Honolulu	C:Concord	D:Jackson	
+50: 请问Arkansas的首府是哪里?
+    A:Tallahassee	B:Little Rock	C:Harrisburg	D:Pierre	
